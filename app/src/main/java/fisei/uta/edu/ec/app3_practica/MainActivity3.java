@@ -27,6 +27,8 @@ public class MainActivity3 extends AppCompatActivity {
 
         String no2 = getIntent().getStringExtra("np1");
         n1.setText(no2);
+        //comentai
+
 
     }
 
